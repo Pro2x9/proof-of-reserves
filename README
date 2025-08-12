@@ -1,0 +1,15 @@
+Install from local directory
+From NPM:
+npm install
+
+Execution
+From Terminal:
+cd merkle-tree-verify
+node ./verify.js <merkle tree data directory> <merkle leaf hash>
+
+Example:
+cd merkle-tree-verify
+node ./verify.js ./output_merkle_tree_small.txt 64b3993941c4989c
+
+Contributor
+Thanks to all merkletreejs[https://github.com/merkletreejs/merkletreejs] and all its contributor.

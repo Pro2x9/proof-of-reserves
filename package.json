@@ -1,0 +1,11 @@
+{
+  "name": "proof-of-reserves-merkle-tree",
+  "version": "0.0.2",
+  "description": "Proof-of-reserves using Merkle tree",
+  "repository": "https://github.com/merkletreejs/merkletreejs",
+  "bugs": "https://github.com/merkletreejs/merkletreejs",
+  "dependencies": {
+    "merkletreejs": "^0.1.7"
+  },
+  "license": "GPLv3"
+}
